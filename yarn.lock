@@ -254,8 +254,8 @@ raw-body@2.4.0:
     unpipe "1.0.0"
 
 rethinkdb@^2.3.3:
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/rethinkdb/-/rethinkdb-2.4.1.tgz#0e44306878543d296cd7ae7f24372960362f9d31"
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/rethinkdb/-/rethinkdb-2.4.2.tgz#9c5d8dde3300ddacfdfae0fc8ded3754602d447a"
   dependencies:
     bluebird ">= 2.3.2 < 3"
 
